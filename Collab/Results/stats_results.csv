@@ -1,0 +1,904 @@
+state,district,persona,z_score
+andaman & nicobar islands,andamans,Critical Gap,-0.012851464773601197
+andaman & nicobar islands,nicobar,Critical Gap,0.2554930346111916
+andaman & nicobar islands,nicobars,Balanced,-0.6039109176669027
+andaman & nicobar islands,north and middle andaman,Maintenance Heavy,7.341190926863235
+andaman & nicobar islands,south andaman,Maintenance Heavy,4.801024896487731
+andhra pradesh,adilabad,Balanced,-0.15887177155884574
+andhra pradesh,alluri sitharama raju,Balanced,0.14450355506004892
+andhra pradesh,anakapalli,Balanced,2.2527640094188692
+andhra pradesh,anantapur,Balanced,0.5387536070864504
+andhra pradesh,ananthapur,Maintenance Heavy,3.8221117463345933
+andhra pradesh,ananthapuramu,Maintenance Heavy,5.339985514416889
+andhra pradesh,annamayya,Balanced,0.6290348774256103
+andhra pradesh,bapatla,Balanced,0.11825148508923056
+andhra pradesh,chittoor,Critical Gap,2.075819027556149
+andhra pradesh,cuddapah,Maintenance Heavy,2.311936629735553
+andhra pradesh,dr b r ambedkar konaseema,Balanced,0.8629032276103764
+andhra pradesh,east godavari,Maintenance Heavy,3.6301899234828645
+andhra pradesh,eluru,Balanced,0.36652161975022485
+andhra pradesh,guntur,Critical Gap,1.5182414336064132
+andhra pradesh,hyderabad,Critical Gap,-0.3707710222453961
+andhra pradesh,kakinada,Balanced,0.2696479232369484
+andhra pradesh,karim nagar,Balanced,-0.27505736449926466
+andhra pradesh,karimnagar,Balanced,-0.19174779769679634
+andhra pradesh,khammam,Balanced,0.002509925855874791
+andhra pradesh,krishna,Maintenance Heavy,2.2408267142803107
+andhra pradesh,kurnool,Maintenance Heavy,2.4888194614981685
+andhra pradesh,kv rangareddy,Critical Gap,-0.1598270794693242
+andhra pradesh,kvrangareddy,Balanced,-0.49657311791298564
+andhra pradesh,mahabub nagar,Balanced,-0.5944569476211042
+andhra pradesh,mahabubnagar,Balanced,-0.2040249970150548
+andhra pradesh,mahbubnagar,Balanced,-0.4625411185089506
+andhra pradesh,medak,Balanced,-0.3270562602453545
+andhra pradesh,nalgonda,Balanced,-0.3409250641991643
+andhra pradesh,nandyal,Balanced,1.0527217417703911
+andhra pradesh,nellore,Critical Gap,0.7663499697253304
+andhra pradesh,nizamabad,Critical Gap,-0.10989980224173973
+andhra pradesh,ntr,Balanced,0.11446631357930098
+andhra pradesh,palnadu,Balanced,0.2065209037498636
+andhra pradesh,parvathipuram manyam,Balanced,0.8332324372788924
+andhra pradesh,prakasam,Critical Gap,0.6263080739757642
+andhra pradesh,rangareddi,Critical Gap,-0.2706640106264044
+andhra pradesh,sri potti sriramulu nellore,Balanced,-0.5018026811905818
+andhra pradesh,sri sathya sai,Balanced,0.849589704060578
+andhra pradesh,srikakulam,Maintenance Heavy,9.071502257671405
+andhra pradesh,tirupati,Balanced,-0.5285243384990125
+andhra pradesh,visakhapatnam,Maintenance Heavy,3.5902644343599275
+andhra pradesh,vizianagaram,Maintenance Heavy,6.0897769931185906
+andhra pradesh,warangal,Balanced,0.10167205644834329
+andhra pradesh,west godavari,Maintenance Heavy,3.667667305269204
+andhra pradesh,ysr,Balanced,0.4146664273896911
+arunachal pradesh,anjaw,Balanced,-0.022497835666518556
+arunachal pradesh,changlang,Balanced,-0.42687772880886726
+arunachal pradesh,dibang valley,Critical Gap,0.20901506576349868
+arunachal pradesh,east kameng,Critical Gap,-0.2605878081598886
+arunachal pradesh,east siang,Balanced,-0.34324722770781857
+arunachal pradesh,kamle,Balanced,-0.591363889792199
+arunachal pradesh,kra daadi,Critical Gap,-0.4886806326369623
+arunachal pradesh,kurung kumey,Critical Gap,-0.3106612425222143
+arunachal pradesh,leparada,Balanced,-0.4951700094194704
+arunachal pradesh,lohit,Critical Gap,-0.31912374062372817
+arunachal pradesh,longding,Balanced,-0.5908883169614644
+arunachal pradesh,lower dibang valley,Critical Gap,-0.3254640371288002
+arunachal pradesh,lower siang,Balanced,-0.41559898827406583
+arunachal pradesh,lower subansiri,Balanced,-0.3269222677417036
+arunachal pradesh,namsai,Critical Gap,0.06690249755098195
+arunachal pradesh,pakke kessang,Balanced,-0.4565845258478009
+arunachal pradesh,papum pare,Balanced,-0.4041853811777838
+arunachal pradesh,shiyomi,Critical Gap,-0.5183518019210268
+arunachal pradesh,siang,Balanced,-0.46262249272563294
+arunachal pradesh,tawang,Critical Gap,-0.16815006394222157
+arunachal pradesh,tirap,Critical Gap,-0.2537476542540017
+arunachal pradesh,upper siang,Balanced,-0.023693666768946367
+arunachal pradesh,upper subansiri,Critical Gap,-0.1517842611404243
+arunachal pradesh,west kameng,Critical Gap,-0.3142162337533803
+arunachal pradesh,west siang,Balanced,-0.1798603507378476
+assam,bajali,Balanced,-0.607418688900691
+assam,baksa,Balanced,-0.5109668707214621
+assam,barpeta,Balanced,-0.4031660598348573
+assam,biswanath,Balanced,-0.4750512440850339
+assam,bongaigaon,Balanced,-0.2010039500194478
+assam,cachar,Balanced,-0.5161319343267445
+assam,charaideo,Balanced,-0.42407779123913514
+assam,chirang,Critical Gap,-0.4369711109454444
+assam,darrang,Balanced,-0.5251921350183152
+assam,dhemaji,Balanced,-0.5432494553071697
+assam,dhubri,Balanced,-0.5040815705721151
+assam,dibrugarh,Balanced,-0.5204401943101375
+assam,dima hasao,Balanced,-0.6133211885729305
+assam,goalpara,Balanced,-0.5337870803052668
+assam,golaghat,Balanced,-0.5822793728771168
+assam,hailakandi,Balanced,-0.510799295256564
+assam,hojai,Balanced,-0.514495472951889
+assam,jorhat,Balanced,-0.5141300907988952
+assam,kamrup,Balanced,-0.520607854445037
+assam,kamrup metro,Balanced,-0.5397883135566434
+assam,karbi anglong,Balanced,-0.549093880204513
+assam,karimganj,Balanced,-0.5624356714964355
+assam,kokrajhar,Balanced,-0.49200788633650056
+assam,lakhimpur,Balanced,-0.5153733117555875
+assam,majuli,Balanced,-0.47196987689220077
+assam,marigaon,Balanced,-0.5448740140339836
+assam,nagaon,Balanced,-0.48069528569648606
+assam,nalbari,Balanced,-0.45672440629577404
+assam,north cachar hills,Balanced,-0.5448953745578258
+assam,sibsagar,Balanced,-0.44510083206106915
+assam,sonitpur,Balanced,-0.5470062147222999
+assam,south salmara mankachar,Balanced,-0.532121736526088
+assam,sribhumi,Balanced,-0.6043892501078739
+assam,tamulpurrict,Balanced,-0.609172574517585
+assam,tinsukia,Balanced,-0.570102754332045
+assam,udalguri,Balanced,-0.5110703148533536
+assam,west karbi anglong,Critical Gap,-0.602888409453005
+bihar,araria,Balanced,-0.47605723486698626
+bihar,arwal,Balanced,-0.572306142687598
+bihar,banka,Balanced,-0.5050909047180334
+bihar,begusarai,Balanced,-0.463135007087592
+bihar,bhabua,Balanced,-0.6120957172124084
+bihar,bhagalpur,Balanced,-0.5399491265977788
+bihar,bhojpur,Balanced,-0.5733593953166288
+bihar,buxar,Balanced,-0.5582276487658624
+bihar,chhatrapati sambhajinagar,Balanced,-0.5454017679780006
+bihar,darbhanga,Balanced,-0.44147417420862795
+bihar,east champaran,Balanced,-0.5594835401021886
+bihar,gaya,Balanced,-0.5697846092235499
+bihar,gopalganj,Balanced,-0.5633792571847979
+bihar,jamui,Balanced,-0.5170297702732126
+bihar,jehanabad,Balanced,-0.5713265819035087
+bihar,kaimur bhabua,Balanced,-0.5305025343660934
+bihar,katihar,Balanced,-0.40361818162048074
+bihar,khagaria,Balanced,-0.5050725032913628
+bihar,kishanganj,Balanced,-0.27320855461875293
+bihar,lakhisarai,Balanced,-0.5449447095260214
+bihar,madhepura,Balanced,-0.4913700562449774
+bihar,madhubani,Balanced,-0.5216561308183998
+bihar,monghyr,Balanced,-0.6119286804869899
+bihar,munger,Balanced,-0.5500738233842505
+bihar,muzaffarpur,Balanced,-0.5449888667373474
+bihar,nalanda,Balanced,-0.5644377372501163
+bihar,nawada,Balanced,-0.5817559467485791
+bihar,pashchim champaran,Balanced,-0.6143950310937231
+bihar,patna,Balanced,-0.5571781282176882
+bihar,purba champaran,Balanced,-0.610193493011001
+bihar,purnea,Balanced,-0.4930022856233092
+bihar,purnia,Balanced,-0.46993558830989196
+bihar,rohtas,Balanced,-0.511576597310838
+bihar,saharsa,Balanced,-0.5465846143566728
+bihar,samastipur,Balanced,-0.4885530773193701
+bihar,samstipur,Balanced,-0.6111770152226068
+bihar,saran,Balanced,-0.5740123414766172
+bihar,sheikhpura,Balanced,-0.5226122011182223
+bihar,sheikpura,Balanced,-0.6116649382889607
+bihar,sheohar,Balanced,-0.49911292189491835
+bihar,sitamarhi,Balanced,-0.5670410926882877
+bihar,siwan,Balanced,-0.552750544463981
+bihar,supaul,Balanced,-0.5060122812851692
+bihar,vaishali,Balanced,-0.5359916564655716
+bihar,west champaran,Balanced,-0.570487415193132
+chandigarh,chandigarh,Balanced,1.826081058449106
+chandigarh,rupnagar,Balanced,-0.582864290264174
+chhattisgarh,balod,Maintenance Heavy,3.308569422219544
+chhattisgarh,baloda bazar,Balanced,0.3891310189691344
+chhattisgarh,balrampur,Balanced,-0.4760068876955775
+chhattisgarh,bastar,Balanced,-0.45360030255935424
+chhattisgarh,bemetara,Critical Gap,0.5832786277249784
+chhattisgarh,bijapur,Critical Gap,-0.5501894609451247
+chhattisgarh,bilaspur,Balanced,-0.11944193545726317
+chhattisgarh,dakshin bastar dantewada,Critical Gap,-0.1239139903983095
+chhattisgarh,dantewada,Critical Gap,-0.1730350810756037
+chhattisgarh,dhamtari,Maintenance Heavy,2.5222148058850875
+chhattisgarh,durg,Critical Gap,0.9384715791921948
+chhattisgarh,gariyaband,Critical Gap,0.15802274784971332
+chhattisgarh,gaurelapendramarwahi,Balanced,-0.2741804216908176
+chhattisgarh,janjgir champa,Balanced,-0.5688332053290214
+chhattisgarh,janjgirchampa,Balanced,0.3397346401053601
+chhattisgarh,jashpur,Balanced,-0.251043547046037
+chhattisgarh,kabeerdham,Balanced,1.267088996871384
+chhattisgarh,kanker,Critical Gap,0.12776221374918675
+chhattisgarh,kawardha,Balanced,0.362072176865708
+chhattisgarh,khairagarh chhuikhadan gandai,Balanced,-0.5927298968592031
+chhattisgarh,kondagaon,Balanced,-0.441961608420123
+chhattisgarh,korba,Balanced,0.09228145020479195
+chhattisgarh,koriya,Critical Gap,-0.21736147378510082
+chhattisgarh,mahasamund,Balanced,-0.04796649382673561
+chhattisgarh,manendragarhchirmiribharatpur,Balanced,-0.6055828460119794
+chhattisgarh,mohallamanpurambagarh chowki,Balanced,-0.5386663727184433
+chhattisgarh,mohlamanpurambagarh chouki,Balanced,-0.4957670768635195
+chhattisgarh,mungeli,Balanced,0.2402598482981678
+chhattisgarh,narayanpur,Balanced,-0.3691416162315773
+chhattisgarh,raigarh,Critical Gap,0.05167807760388162
+chhattisgarh,raipur,Balanced,0.19150319245020253
+chhattisgarh,rajnandgaon,Balanced,0.9034406161427831
+chhattisgarh,sakti,Balanced,-0.5307673915697648
+chhattisgarh,sarangarhbilaigarh,Balanced,-0.5668688534381
+chhattisgarh,sukma,Critical Gap,-0.4324397303118753
+chhattisgarh,surajpur,Balanced,-0.2555906936959431
+chhattisgarh,surguja,Balanced,-0.14673483918792085
+chhattisgarh,uttar bastar kanker,Critical Gap,-0.16005949621364884
+dadra and nagar haveli and daman and diu,dadra and nagar haveli,Critical Gap,-0.07925530451995379
+dadra and nagar haveli and daman and diu,dadra nagar haveli,Critical Gap,-0.4250145847437076
+dadra and nagar haveli and daman and diu,daman,Critical Gap,1.11665087250618
+dadra and nagar haveli and daman and diu,diu,Critical Gap,1.7100488395553404
+delhi,central delhi,Balanced,-0.3636532907667376
+delhi,east delhi,Balanced,-0.3840725179763415
+delhi,najafgarh,Critical Gap,-0.5607653314913086
+delhi,new delhi,Balanced,-0.5621105582726162
+delhi,north delhi,Balanced,-0.39523129884967545
+delhi,north east,Critical Gap,-0.5528638409346118
+delhi,north east delhi,Balanced,-0.39757539504452327
+delhi,north west delhi,Balanced,-0.18770331829608974
+delhi,shahdara,Balanced,-0.5602269293949598
+delhi,south delhi,Balanced,-0.24866867017172414
+delhi,south east delhi,Balanced,-0.36292703390565756
+delhi,south west delhi,Balanced,-0.2545109459954958
+delhi,west delhi,Balanced,-0.4444657574136831
+goa,bardez,Balanced,-0.5197244080559874
+goa,north goa,Critical Gap,0.6970426870602783
+goa,south goa,Critical Gap,0.9220661131933361
+gujarat,ahmadabad,Critical Gap,-0.6100944403541014
+gujarat,ahmedabad,Balanced,-0.30708862692582967
+gujarat,amreli,Critical Gap,-0.0063370324822803505
+gujarat,anand,Critical Gap,0.032527416525266035
+gujarat,arvalli,Critical Gap,0.00748383440679603
+gujarat,banas kantha,Balanced,-0.6143418391795201
+gujarat,banaskantha,Critical Gap,-0.4797259879219705
+gujarat,bharuch,Balanced,0.17865975074969068
+gujarat,bhavnagar,Critical Gap,-0.08598715615410156
+gujarat,botad,Critical Gap,-0.38500383833388835
+gujarat,chhotaudepur,Critical Gap,-0.46430754058108753
+gujarat,dahod,Critical Gap,-0.45156621386688306
+gujarat,devbhumi dwarka,Critical Gap,-0.17118628759235735
+gujarat,dohad,Critical Gap,-0.6113221669698825
+gujarat,gandhinagar,Balanced,-0.19141711281914803
+gujarat,gir somnath,Critical Gap,-0.35674243068936384
+gujarat,jamnagar,Balanced,-0.0765613598072783
+gujarat,junagadh,Critical Gap,0.014282902687767007
+gujarat,kachchh,Balanced,-0.34238678545079937
+gujarat,kheda,Critical Gap,-0.18718769509287173
+gujarat,mahesana,Critical Gap,-0.11716424596847916
+gujarat,mahisagar,Critical Gap,-0.1373949705642047
+gujarat,morbi,Balanced,-0.4893677980216745
+gujarat,narmada,Critical Gap,1.0490087478381314
+gujarat,navsari,Balanced,0.6446125287038879
+gujarat,panch mahals,Balanced,-0.6139139776571886
+gujarat,panchmahals,Critical Gap,-0.24720525483864098
+gujarat,patan,Critical Gap,-0.4485586697274242
+gujarat,porbandar,Critical Gap,-0.163891037853695
+gujarat,rajkot,Balanced,-0.39026199666162337
+gujarat,sabar kantha,Balanced,-0.6139159713445773
+gujarat,sabarkantha,Critical Gap,-0.2818831765806863
+gujarat,surat,Balanced,-0.3861638259724829
+gujarat,surendra nagar,Critical Gap,-0.33209233512739794
+gujarat,surendranagar,Balanced,-0.6136192946169831
+gujarat,tapi,Critical Gap,0.24025296056148096
+gujarat,the dangs,Critical Gap,0.10514658306674261
+gujarat,vadodara,Critical Gap,-0.3000361832789002
+gujarat,valsad,Balanced,-0.3170066436197534
+haryana,ambala,Critical Gap,1.6605693022332066
+haryana,bhiwani,Critical Gap,1.9899139601491433
+haryana,charkhi dadri,Balanced,0.976164634592965
+haryana,faridabad,Balanced,-0.4220526601185251
+haryana,fatehabad,Maintenance Heavy,2.7647941597881527
+haryana,hisar,Critical Gap,1.3205128600036464
+haryana,jhajjar,Critical Gap,1.981698516125765
+haryana,jind,Maintenance Heavy,3.3320347144649247
+haryana,kaithal,Maintenance Heavy,3.595135977403114
+haryana,karnal,Critical Gap,1.2811653433708436
+haryana,kurukshetra,Maintenance Heavy,2.497003255169329
+haryana,mahendragarh,Critical Gap,0.768504577552707
+haryana,mewat,Balanced,0.1164299586931006
+haryana,palwal,Balanced,0.35311019984697145
+haryana,panchkula,Balanced,1.456621797406711
+haryana,panipat,Balanced,-0.006519421847902753
+haryana,rewari,Balanced,1.126930268340294
+haryana,rohtak,Critical Gap,0.7941551546997827
+haryana,sirsa,Critical Gap,1.5347542884852645
+haryana,sonipat,Balanced,0.7400609864608841
+haryana,yamuna nagar,Maintenance Heavy,2.5702428303996028
+haryana,yamunanagar,Critical Gap,-0.24085659496983028
+himachal pradesh,bilaspur,Maintenance Heavy,6.171699997518269
+himachal pradesh,chamba,Critical Gap,2.0204416223195167
+himachal pradesh,hamirpur,Maintenance Heavy,6.32228655318995
+himachal pradesh,kangra,Maintenance Heavy,5.575351194843492
+himachal pradesh,kinnaur,Critical Gap,0.44794212002856815
+himachal pradesh,kullu,Critical Gap,0.45753439380018524
+himachal pradesh,lahaul and spiti,Balanced,-0.4565845258478009
+himachal pradesh,lahul and spiti,Maintenance Heavy,2.316308634461724
+himachal pradesh,lahul spiti,Critical Gap,-0.22857939565157182
+himachal pradesh,mandi,Maintenance Heavy,6.290055387829221
+himachal pradesh,shimla,Critical Gap,0.6758409541268037
+himachal pradesh,sirmaur,Critical Gap,1.7494424861073432
+himachal pradesh,solan,Critical Gap,1.976852045519226
+himachal pradesh,una,Maintenance Heavy,6.626562260052397
+jammu and kashmir,anantnag,Balanced,0.2147536564222836
+jammu and kashmir,badgam,Balanced,-0.35805795663347184
+jammu and kashmir,bandipore,Balanced,-0.2516353289066647
+jammu and kashmir,bandipur,Balanced,-0.6144342313682671
+jammu and kashmir,baramula,Balanced,-0.051032205510602835
+jammu and kashmir,budgam,Maintenance Heavy,3.129841732144127
+jammu and kashmir,doda,Critical Gap,-0.4147687412278284
+jammu and kashmir,ganderbal,Critical Gap,0.660289834990343
+jammu and kashmir,jammu,Critical Gap,-0.036671581154241475
+jammu and kashmir,kargil,Balanced,-0.477482937564595
+jammu and kashmir,kathua,Critical Gap,0.16662573701949787
+jammu and kashmir,kishtwar,Critical Gap,-0.058741967079712985
+jammu and kashmir,kulgam,Critical Gap,0.03444322763389003
+jammu and kashmir,kupwara,Balanced,-0.028533961109829302
+jammu and kashmir,leh,Balanced,-0.21283521313712736
+jammu and kashmir,leh ladakh,Balanced,-0.5197244080559874
+jammu and kashmir,pulwama,Critical Gap,1.2057453141374794
+jammu and kashmir,punch,Critical Gap,-0.11828586734983974
+jammu and kashmir,rajauri,Balanced,-0.6039109176669027
+jammu and kashmir,rajouri,Critical Gap,-0.08558023758978167
+jammu and kashmir,ramban,Critical Gap,-0.22996373346289956
+jammu and kashmir,reasi,Critical Gap,-0.38336364084688873
+jammu and kashmir,samba,Critical Gap,0.8844802639698274
+jammu and kashmir,shupiyan,Critical Gap,0.14038919249781798
+jammu and kashmir,srinagar,Critical Gap,0.646506357436399
+jammu and kashmir,udhampur,Critical Gap,0.05815584720179586
+jharkhand,bokaro,Balanced,-0.40234259252181237
+jharkhand,chatra,Balanced,-0.49318849183953267
+jharkhand,deoghar,Balanced,-0.5195127979435143
+jharkhand,dhanbad,Balanced,-0.47830472822895287
+jharkhand,dumka,Balanced,-0.486181126177731
+jharkhand,east singhbhum,Critical Gap,-0.31806579848206845
+jharkhand,garhwa,Critical Gap,-0.33904245983224884
+jharkhand,giridih,Balanced,-0.5279937624261878
+jharkhand,godda,Balanced,-0.3950408766167876
+jharkhand,gumla,Balanced,-0.4744929135605783
+jharkhand,hazaribag,Balanced,-0.5336212242357796
+jharkhand,hazaribagh,Balanced,-0.4174392369108562
+jharkhand,jamtara,Balanced,-0.4676278150497033
+jharkhand,khunti,Critical Gap,-0.47732638948064354
+jharkhand,kodarma,Balanced,-0.5111068913241614
+jharkhand,koderma,Balanced,-0.44499472385203814
+jharkhand,latehar,Balanced,-0.3621822019618597
+jharkhand,lohardaga,Critical Gap,-0.4558753460114046
+jharkhand,pakaur,Balanced,-0.5051376365887497
+jharkhand,pakur,Balanced,-0.538057908859877
+jharkhand,palamau,Balanced,-0.53653029710145
+jharkhand,palamu,Balanced,-0.3127711801064477
+jharkhand,pashchimi singhbhum,Balanced,-0.46407146840213126
+jharkhand,purbi singhbhum,Critical Gap,-0.3720938742223952
+jharkhand,ramgarh,Balanced,-0.44344764313906854
+jharkhand,ranchi,Balanced,-0.47377442948178083
+jharkhand,sahebganj,Balanced,-0.46960963820149265
+jharkhand,sahibganj,Balanced,-0.5759859232079748
+jharkhand,seraikelakharsawan,Critical Gap,-0.3517795674824125
+jharkhand,simdega,Critical Gap,-0.25191933903739905
+jharkhand,west singhbhum,Critical Gap,-0.37753371836759003
+karnataka,bagalkot,Balanced,-0.1591428382565531
+karnataka,ballari,Balanced,0.3731473466280631
+karnataka,belagavi,Critical Gap,1.0269155530222336
+karnataka,bellary,Critical Gap,-0.10247590114644438
+karnataka,bengaluru urban,Balanced,-0.47826730758699565
+karnataka,bidar,Critical Gap,-0.16386746881018258
+karnataka,bijapur,Balanced,-0.3818814321288777
+karnataka,bijapurkar,Critical Gap,-0.582864290264174
+karnataka,chamarajanagar,Balanced,-0.34492047490554506
+karnataka,chamrajanagar,Critical Gap,0.15740475882028637
+karnataka,chamrajnagar,Balanced,-0.3606119048913573
+karnataka,chickmagalur,Critical Gap,0.0811261538636646
+karnataka,chikkaballapur,Balanced,0.1373626377076596
+karnataka,chikkamagaluru,Balanced,0.4160831864080548
+karnataka,chikmagalur,Critical Gap,-0.40291562597084235
+karnataka,chitradurga,Balanced,0.3431551340684291
+karnataka,dakshina kannada,Balanced,0.15711689673252308
+karnataka,davanagere,Critical Gap,-0.4339705964044433
+karnataka,davangere,Critical Gap,0.5741338062334309
+karnataka,dharwad,Critical Gap,0.6193047170064683
+karnataka,gadag,Balanced,0.06160097966355203
+karnataka,gulbarga,Critical Gap,-0.2970008652288143
+karnataka,hasan,Balanced,-0.15835381555113318
+karnataka,hassan,Balanced,1.3726323180320268
+karnataka,haveri,Balanced,0.7169769600058247
+karnataka,kalaburagi,Critical Gap,0.17394171632516175
+karnataka,kodagu,Balanced,0.5305299922709747
+karnataka,kolar,Balanced,0.4341555161188008
+karnataka,koppal,Balanced,-0.10115192728312984
+karnataka,mandya,Critical Gap,1.5729515113120314
+karnataka,mysuru,Critical Gap,0.16339075805677203
+karnataka,raichur,Critical Gap,-0.33879196484930024
+karnataka,ramanagar,Balanced,-0.059052504313363376
+karnataka,shivamogga,Critical Gap,1.0595777093990533
+karnataka,tumakuru,Maintenance Heavy,2.42959665356777
+karnataka,udupi,Balanced,0.38951981985668915
+karnataka,uttara kannada,Balanced,0.5041655736983885
+karnataka,vijayanagara,Balanced,-0.3706151407750842
+karnataka,vijayapura,Balanced,-0.17002083743911564
+karnataka,yadgir,Balanced,-0.3660558074147506
+kerala,alappuzha,Critical Gap,-0.20666466360979796
+kerala,ernakulam,Critical Gap,-0.2581374126575244
+kerala,idukki,Critical Gap,0.1483125687140841
+kerala,kannur,Critical Gap,-0.31408310084476276
+kerala,kasaragod,Critical Gap,-0.13626223231728266
+kerala,kasargod,Balanced,-0.5802739361222996
+kerala,kollam,Critical Gap,-0.10962794716849154
+kerala,kottayam,Critical Gap,-0.21305805262703348
+kerala,kozhikode,Balanced,-0.27855093979202833
+kerala,malappuram,Balanced,-0.36727310878698616
+kerala,palakkad,Critical Gap,-0.1497332266165539
+kerala,pathanamthitta,Critical Gap,-0.1756492426061782
+kerala,thiruvananthapuram,Critical Gap,-0.1940976272437318
+kerala,thrissur,Critical Gap,-0.24479104369678986
+kerala,wayanad,Critical Gap,-0.04846883422437303
+ladakh,kargil,Balanced,-0.465629357458891
+ladakh,leh,Balanced,0.21089422892445664
+lakshadweep,lakshadweep,Critical Gap,1.5151017958351145
+madhya pradesh,agar malwa,Balanced,-0.4717710141040353
+madhya pradesh,alirajpur,Critical Gap,-0.5105044832530521
+madhya pradesh,anuppur,Critical Gap,0.34751690737874213
+madhya pradesh,ashok nagar,Balanced,-0.24753390755172247
+madhya pradesh,balaghat,Critical Gap,0.7999497042459863
+madhya pradesh,barwani,Balanced,-0.5159601446939268
+madhya pradesh,betul,Critical Gap,-0.008307042603999806
+madhya pradesh,bhind,Balanced,-0.5027320577230991
+madhya pradesh,bhopal,Critical Gap,0.036005053012900856
+madhya pradesh,burhanpur,Critical Gap,-0.4851232950705229
+madhya pradesh,chhatarpur,Critical Gap,-0.4565404288242451
+madhya pradesh,chhindwara,Balanced,0.4505049427234837
+madhya pradesh,damoh,Critical Gap,0.22472999296023805
+madhya pradesh,datia,Balanced,-0.45333313656465507
+madhya pradesh,dewas,Critical Gap,-0.3111866024405366
+madhya pradesh,dhar,Balanced,-0.38366749624459323
+madhya pradesh,dindori,Balanced,0.7962791101818416
+madhya pradesh,east nimar,Critical Gap,-0.5417735896621108
+madhya pradesh,guna,Critical Gap,-0.23718045071682028
+madhya pradesh,gwalior,Balanced,-0.48335765396005326
+madhya pradesh,harda,Critical Gap,-0.1625747145335094
+madhya pradesh,indore,Balanced,-0.38560992106354863
+madhya pradesh,jabalpur,Balanced,-0.11013788317534379
+madhya pradesh,jhabua,Critical Gap,-0.5334346635113794
+madhya pradesh,katni,Balanced,-0.37980929233183236
+madhya pradesh,khandwa,Critical Gap,-0.30464084877935743
+madhya pradesh,khargone,Critical Gap,-0.4306304783549203
+madhya pradesh,maihar,Balanced,-0.5162166368221992
+madhya pradesh,mandla,Balanced,0.7882993858319274
+madhya pradesh,mandsaur,Balanced,-0.0034186386684020614
+madhya pradesh,mauganj,Balanced,-0.5996302476866867
+madhya pradesh,morena,Balanced,-0.4844531445333965
+madhya pradesh,narmadapuram,Critical Gap,-0.07688077638005927
+madhya pradesh,narsimhapur,Critical Gap,-0.48829540418896605
+madhya pradesh,narsinghpur,Critical Gap,-0.28741128735023275
+madhya pradesh,neemuch,Balanced,-0.13463990641416315
+madhya pradesh,niwari,Balanced,0.12467380153932796
+madhya pradesh,pandhurna,Balanced,-0.4502705376269822
+madhya pradesh,panna,Critical Gap,-0.3788870283862092
+madhya pradesh,raisen,Critical Gap,-0.036566676872059174
+madhya pradesh,rajgarh,Critical Gap,-0.06639061010335374
+madhya pradesh,ratlam,Balanced,-0.019536152550769428
+madhya pradesh,rewa,Critical Gap,0.24660859763381007
+madhya pradesh,sagar,Critical Gap,0.01620454256522541
+madhya pradesh,satna,Critical Gap,-0.09201953741907389
+madhya pradesh,sehore,Critical Gap,-0.17245505591096155
+madhya pradesh,seoni,Balanced,0.32431086558691063
+madhya pradesh,shahdol,Balanced,-0.037962283093161756
+madhya pradesh,shajapur,Critical Gap,0.003405138885509384
+madhya pradesh,sheopur,Balanced,-0.510561185996218
+madhya pradesh,shivpuri,Critical Gap,-0.41840184509447315
+madhya pradesh,sidhi,Critical Gap,0.5954336504284815
+madhya pradesh,singrauli,Critical Gap,0.3171604686619391
+madhya pradesh,tikamgarh,Critical Gap,-0.003207371654212257
+madhya pradesh,ujjain,Critical Gap,-0.0958806485012599
+madhya pradesh,umaria,Balanced,-0.3835362534511191
+madhya pradesh,vidisha,Critical Gap,-0.2916922583260137
+madhya pradesh,west nimar,Critical Gap,-0.41871595902464276
+maharashtra,ahilyanagar,Balanced,-0.5387890660620467
+maharashtra,ahmadnagar,Balanced,0.12451474634896206
+maharashtra,akola,Critical Gap,0.20417039900905207
+maharashtra,amravati,Critical Gap,0.44783582393057453
+maharashtra,beed,Balanced,-0.12691244523344816
+maharashtra,bhandara,Maintenance Heavy,5.371827934179322
+maharashtra,bid,Balanced,-0.5708839023580051
+maharashtra,buldana,Balanced,-0.31931581438044554
+maharashtra,buldhana,Critical Gap,0.19869856307180453
+maharashtra,chandrapur,Critical Gap,1.2240110622892488
+maharashtra,chhatrapati sambhajinagar,Balanced,-0.39458379580875286
+maharashtra,dharashiv,Balanced,0.2763458363797084
+maharashtra,dhule,Critical Gap,-0.4574558553531173
+maharashtra,gadchiroli,Critical Gap,0.8952114033367625
+maharashtra,gondia,Balanced,-0.5597130001211722
+maharashtra,gondiya,Maintenance Heavy,2.8143316961909743
+maharashtra,hingoli,Balanced,-0.2846532119381974
+maharashtra,jalgaon,Critical Gap,-0.007292055248422979
+maharashtra,jalna,Critical Gap,0.18533760993542875
+maharashtra,kolhapur,Critical Gap,0.6493239586708413
+maharashtra,latur,Critical Gap,-0.13485613299879495
+maharashtra,mumbai,Balanced,-0.33383711012885686
+maharashtra,mumbai sub urban,Balanced,-0.5547144261130241
+maharashtra,nagpur,Critical Gap,0.17569649019705302
+maharashtra,nanded,Balanced,-0.07825248383101878
+maharashtra,nandurbar,Critical Gap,-0.34913138046322323
+maharashtra,nashik,Critical Gap,-0.22799305443206902
+maharashtra,palghar,Balanced,-0.3137813127248995
+maharashtra,parbhani,Balanced,0.19550737357172762
+maharashtra,pune,Balanced,-0.15808591133418645
+maharashtra,raigad,Balanced,-0.5556932074411618
+maharashtra,raigarh,Critical Gap,0.3457149741390659
+maharashtra,raigarhmh,Balanced,-0.5995777884957527
+maharashtra,ratnagiri,Critical Gap,2.1045030295997162
+maharashtra,sangli,Critical Gap,-0.06439118836755488
+maharashtra,satara,Critical Gap,0.9062285677561954
+maharashtra,sindhudurg,Maintenance Heavy,3.1185359156290713
+maharashtra,solapur,Balanced,0.03746734493224191
+maharashtra,thane,Balanced,-0.45778432258235113
+maharashtra,wardha,Maintenance Heavy,4.2364626078373515
+maharashtra,washim,Critical Gap,0.937185245563075
+maharashtra,yavatmal,Balanced,0.11277386471109496
+manipur,bishnupur,Balanced,-0.24465250455496532
+manipur,chandel,Balanced,-0.5172531797895222
+manipur,churachandpur,Balanced,-0.5776074532518283
+manipur,imphal east,Balanced,0.07354835535916458
+manipur,imphal west,Balanced,0.062233631261074604
+manipur,jiribam,Balanced,-0.5627327336180855
+manipur,kakching,Balanced,-0.40953028029741423
+manipur,pherzawl,Balanced,-0.6125209016043828
+manipur,senapati,Balanced,-0.430509445222121
+manipur,tamenglong,Balanced,-0.5470353072368513
+manipur,thoubal,Balanced,-0.07436920864128002
+manipur,ukhrul,Balanced,-0.4568816547052512
+meghalaya,east garo hills,Balanced,-0.611386939755903
+meghalaya,east jaintia hills,Balanced,-0.6053095576620311
+meghalaya,east khasi hills,Balanced,-0.6079633336024252
+meghalaya,eastern west khasi hills,Balanced,-0.6143415149479908
+meghalaya,jaintia hills,Balanced,-0.6039109176669027
+meghalaya,north garo hills,Balanced,-0.6098051079287452
+meghalaya,ri bhoi,Balanced,-0.6079197990769464
+meghalaya,south garo hills,Balanced,-0.611903088369257
+meghalaya,south west garo hills,Balanced,-0.5986524362277177
+meghalaya,south west khasi hills,Balanced,-0.601525451478122
+meghalaya,west garo hills,Critical Gap,-0.6016113156152425
+meghalaya,west jaintia hills,Balanced,-0.6064031340570609
+meghalaya,west khasi hills,Balanced,-0.6101549134356669
+mizoram,aizawl,Critical Gap,0.568128696093499
+mizoram,champhai,Critical Gap,-0.16029478230049596
+mizoram,hnahthial,Balanced,-0.509201094354623
+mizoram,khawzawl,Balanced,-0.6065417460922439
+mizoram,kolasib,Critical Gap,1.0110129926578677
+mizoram,lawngtlai,Critical Gap,-0.3667782361450574
+mizoram,lunglei,Critical Gap,0.3073900603008264
+mizoram,mamit,Maintenance Heavy,2.703040412986866
+mizoram,mammit,Critical Gap,1.4001957139040546
+mizoram,saiha,Critical Gap,-0.355572278395693
+mizoram,saitual,Balanced,-0.5170935796306463
+mizoram,serchhip,Maintenance Heavy,2.415661096171664
+nagaland,chumukedima,Balanced,-0.5881259471148561
+nagaland,dimapur,Critical Gap,-0.5599733105987544
+nagaland,kiphire,Critical Gap,-0.5905369080349094
+nagaland,kohima,Critical Gap,-0.5788117654704691
+nagaland,longleng,Critical Gap,-0.603349233733078
+nagaland,meluri,Critical Gap,-0.4941677890669595
+nagaland,mokokchung,Critical Gap,-0.5438347850173413
+nagaland,mon,Critical Gap,-0.5758096367584509
+nagaland,niuland,Balanced,-0.5420864496713867
+nagaland,noklak,Balanced,-0.6047630078451509
+nagaland,peren,Critical Gap,-0.5917542460332176
+nagaland,phek,Critical Gap,-0.5899403115461258
+nagaland,shamator,Balanced,-0.6127277480653432
+nagaland,tseminyu,Critical Gap,-0.5795757547324976
+nagaland,tuensang,Critical Gap,-0.5860940064611374
+nagaland,wokha,Critical Gap,-0.5639172047678
+nagaland,zunheboto,Critical Gap,-0.5878196177776589
+odisha,angul,Critical Gap,0.2067400981879622
+odisha,anugal,Balanced,-0.6144342313682671
+odisha,anugul,Balanced,-0.4739337727608611
+odisha,balangir,Critical Gap,-0.11732226428290322
+odisha,baleshwar,Critical Gap,-0.340410483319246
+odisha,baleswar,Critical Gap,-0.06255099636668562
+odisha,bargarh,Critical Gap,-0.0776942722417744
+odisha,baudh,Critical Gap,-0.3247335953542349
+odisha,bhadrak,Critical Gap,-0.140026798651107
+odisha,boudh,Critical Gap,-0.08210855779193042
+odisha,cuttack,Critical Gap,0.03202565833789609
+odisha,debagarh,Critical Gap,0.3072326603095666
+odisha,dhenkanal,Critical Gap,0.11778722124946446
+odisha,gajapati,Critical Gap,0.3780231125362738
+odisha,ganjam,Critical Gap,0.3549492584254583
+odisha,jagatsinghapur,Critical Gap,0.28263569163380464
+odisha,jagatsinghpur,Critical Gap,-0.17825050403635062
+odisha,jajpur,Balanced,-0.38507605187503396
+odisha,jharsuguda,Critical Gap,1.0109943837919062
+odisha,kalahandi,Critical Gap,-0.19372746336511887
+odisha,kandhamal,Critical Gap,0.07265940744598935
+odisha,kendrapara,Critical Gap,-0.065056170958778
+odisha,kendujhar,Critical Gap,-0.1359614550884926
+odisha,khorda,Critical Gap,0.16295952668328947
+odisha,khordha,Critical Gap,-0.42437030023137917
+odisha,koraput,Critical Gap,-0.1957017715686356
+odisha,malkangiri,Critical Gap,-0.031753665227738856
+odisha,mayurbhanj,Critical Gap,-0.17712329281607814
+odisha,nabarangapur,Critical Gap,-0.37549745685038327
+odisha,nayagarh,Critical Gap,0.515339834669061
+odisha,nuapada,Critical Gap,-0.03273163236413729
+odisha,puri,Critical Gap,0.06615879459058507
+odisha,rayagada,Critical Gap,-0.1732725449696834
+odisha,sambalpur,Critical Gap,0.25775892410382484
+odisha,sonapur,Critical Gap,0.11067896543250547
+odisha,subarnapur,Balanced,-0.28424369982053765
+odisha,sundargarh,Critical Gap,-0.33251126269139136
+odisha,sundergarh,Critical Gap,0.1652416868857827
+puducherry,karaikal,Critical Gap,0.936270482522536
+puducherry,puducherry,Critical Gap,0.8278028844903418
+puducherry,yanam,Balanced,-0.4750003248251886
+punjab,amritsar,Balanced,-0.2778659516019937
+punjab,barnala,Critical Gap,1.504566523822726
+punjab,bathinda,Critical Gap,0.8862466144928616
+punjab,faridkot,Critical Gap,0.9664831859877095
+punjab,fatehgarh sahib,Critical Gap,0.6424122974608986
+punjab,fazilka,Critical Gap,0.5342705741729497
+punjab,ferozepur,Critical Gap,1.6370058582697344
+punjab,firozpur,Balanced,-0.19242787579314302
+punjab,gurdaspur,Balanced,0.1411359273400734
+punjab,hoshiarpur,Critical Gap,0.2718277305058468
+punjab,jalandhar,Critical Gap,0.10944915669475709
+punjab,kapurthala,Critical Gap,-0.1848852788065329
+punjab,ludhiana,Balanced,-0.42694945724542327
+punjab,malerkotla,Balanced,-0.2055283275438212
+punjab,mansa,Critical Gap,1.5661327808801992
+punjab,moga,Critical Gap,0.9038168528960846
+punjab,mohali,Balanced,0.040716604432264714
+punjab,muktsar,Critical Gap,-0.2795025573558755
+punjab,nawanshahr,Balanced,-0.5359478500122575
+punjab,pathankot,Critical Gap,1.3953639309790817
+punjab,patiala,Balanced,0.13684836706212886
+punjab,rupnagar,Critical Gap,1.3370807095060369
+punjab,sangrur,Critical Gap,1.3006541076668021
+punjab,sas nagarmohali,Balanced,-0.5146049581472155
+punjab,shaheed bhagat singh nagar,Critical Gap,0.8019831588869497
+punjab,sri muktsar sahib,Critical Gap,1.166375272015607
+punjab,tarn taran,Critical Gap,0.41001419808499756
+rajasthan,ajmer,Balanced,-0.3190039001610243
+rajasthan,alwar,Balanced,-0.4346675491915757
+rajasthan,balotra,Balanced,-0.6144342313682671
+rajasthan,banswara,Balanced,-0.4312674676127797
+rajasthan,baran,Balanced,-0.35408529371980346
+rajasthan,barmer,Balanced,-0.3834098979988979
+rajasthan,beawar,Balanced,-0.5933876039655384
+rajasthan,bharatpur,Balanced,-0.4908739927835081
+rajasthan,bhilwara,Balanced,-0.39309802592876575
+rajasthan,bikaner,Balanced,-0.497953261456954
+rajasthan,bundi,Balanced,-0.3546699769002798
+rajasthan,chittaurgarh,Balanced,-0.5300995060714171
+rajasthan,chittorgarh,Balanced,-0.4416541788749257
+rajasthan,churu,Balanced,-0.46447534357992476
+rajasthan,dausa,Critical Gap,-0.2883861191320769
+rajasthan,deeg,Balanced,-0.6127600678248684
+rajasthan,dhaulpur,Balanced,-0.5882378972606154
+rajasthan,dholpur,Balanced,-0.42930617211601924
+rajasthan,didwanakuchaman,Balanced,-0.6039109176669027
+rajasthan,dungarpur,Balanced,-0.41011516096728523
+rajasthan,ganganagar,Balanced,-0.23468846630462178
+rajasthan,hanumangarh,Balanced,-0.2566250194311515
+rajasthan,jaipur,Balanced,-0.4288748133299383
+rajasthan,jaisalmer,Critical Gap,-0.3771574453596257
+rajasthan,jalor,Balanced,-0.5220095932641121
+rajasthan,jalore,Balanced,-0.6142626556013971
+rajasthan,jhalawar,Balanced,-0.3913588944936125
+rajasthan,jhunjhunu,Balanced,-0.5586194008541676
+rajasthan,jhunjhunun,Critical Gap,-0.32969480008576635
+rajasthan,jodhpur,Balanced,-0.4347101165940651
+rajasthan,karauli,Balanced,-0.41829321702580136
+rajasthan,kota,Balanced,-0.3500282657475706
+rajasthan,nagaur,Critical Gap,-0.4119561618430619
+rajasthan,pali,Critical Gap,-0.3393453687158406
+rajasthan,pratapgarh,Balanced,-0.309258134028699
+rajasthan,rajsamand,Balanced,-0.3616801035623806
+rajasthan,salumbar,Balanced,-0.6144342313682671
+rajasthan,sawai madhopur,Balanced,-0.39780242661671483
+rajasthan,sikar,Critical Gap,-0.36012196250034934
+rajasthan,sirohi,Balanced,-0.5369142214754598
+rajasthan,tonk,Balanced,-0.34936993205997097
+rajasthan,udaipur,Balanced,-0.44930795068386764
+sikkim,east,Balanced,-0.44852120755714503
+sikkim,east sikkim,Balanced,-0.41418402100726687
+sikkim,namchi,Balanced,-0.6144342313682671
+sikkim,north,Balanced,-0.4690211693130497
+sikkim,north sikkim,Critical Gap,-0.24261048058672433
+sikkim,south,Balanced,-0.5161522740472674
+sikkim,south sikkim,Balanced,-0.5593141325857173
+sikkim,west,Balanced,-0.4706782495549854
+sikkim,west sikkim,Balanced,-0.5218126920978924
+tamil nadu,ariyalur,Critical Gap,0.19798632197056623
+tamil nadu,chengalpattu,Balanced,-0.48404379753729865
+tamil nadu,chennai,Balanced,-0.06545828947144054
+tamil nadu,coimbatore,Critical Gap,-0.1751252374484823
+tamil nadu,cuddalore,Critical Gap,0.25423934306419776
+tamil nadu,dharmapuri,Critical Gap,0.2155859611732708
+tamil nadu,dindigul,Critical Gap,-0.12352995110569412
+tamil nadu,erode,Critical Gap,0.031381329273880265
+tamil nadu,kallakurichi,Balanced,-0.43553789844507207
+tamil nadu,kancheepuram,Balanced,-0.23659237888130424
+tamil nadu,kanchipuram,Balanced,-0.6143173056604743
+tamil nadu,kanniyakumari,Critical Gap,1.5146023604923358
+tamil nadu,kanyakumari,Critical Gap,1.8439476339633822
+tamil nadu,karur,Critical Gap,-0.1664463241181214
+tamil nadu,krishnagiri,Critical Gap,0.2330332875127434
+tamil nadu,madurai,Critical Gap,0.41430438278209153
+tamil nadu,mayiladuthurai,Balanced,-0.05718429659755439
+tamil nadu,nagapattinam,Critical Gap,-0.10759239383352029
+tamil nadu,namakkal,Critical Gap,0.19939177231290892
+tamil nadu,perambalur,Critical Gap,0.5211351952128729
+tamil nadu,pudukkottai,Critical Gap,-0.28540906820759365
+tamil nadu,ramanathapuram,Critical Gap,0.12743491175536306
+tamil nadu,ranipet,Balanced,-0.29647982453418503
+tamil nadu,salem,Critical Gap,0.15837202734330602
+tamil nadu,sivaganga,Critical Gap,0.05387288920555544
+tamil nadu,tenkasi,Balanced,0.054105697894884223
+tamil nadu,thanjavur,Critical Gap,-0.1046754790069968
+tamil nadu,the nilgiris,Critical Gap,-0.06265611921714298
+tamil nadu,theni,Critical Gap,0.1116744140258778
+tamil nadu,thiruvallur,Balanced,-0.541238738289888
+tamil nadu,thiruvarur,Critical Gap,-0.14812391811184603
+tamil nadu,thoothukkudi,Critical Gap,0.23329179913720446
+tamil nadu,tiruchirappalli,Critical Gap,-0.12499710919899888
+tamil nadu,tirunelveli,Critical Gap,0.13201488179292065
+tamil nadu,tirupathur,Balanced,-0.08826854630004619
+tamil nadu,tirupattur,Balanced,0.3015027330271894
+tamil nadu,tiruppur,Balanced,0.060641082805657366
+tamil nadu,tiruvallur,Balanced,-0.117738561339201
+tamil nadu,tiruvannamalai,Critical Gap,0.6690996179651134
+tamil nadu,tiruvarur,Balanced,-0.6144342313682671
+tamil nadu,vellore,Critical Gap,0.1818110948858875
+tamil nadu,villupuram,Critical Gap,0.37239065981055486
+tamil nadu,viluppuram,Critical Gap,-0.3128645893636935
+tamil nadu,virudhunagar,Critical Gap,0.38704004150123056
+telangana,adilabad,Critical Gap,0.39569145539753164
+telangana,bhadradri kothagudem,Balanced,-0.43136246943618517
+telangana,hanumakonda,Balanced,-0.43926889148464676
+telangana,hyderabad,Balanced,-0.3637591666745085
+telangana,jagitial,Balanced,0.09073408272114254
+telangana,jangaon,Balanced,-0.5302477217573518
+telangana,jangoan,Balanced,-0.29704787690955864
+telangana,jayashankar bhupalpally,Balanced,-0.4888197339100264
+telangana,jogulamba gadwal,Balanced,-0.4037574910669515
+telangana,kamareddy,Balanced,-0.036522872720233523
+telangana,karimnagar,Critical Gap,0.43589050980910815
+telangana,khammam,Balanced,-0.1813121782762766
+telangana,komaram bheem,Balanced,-0.34138193374865355
+telangana,kv rangareddy,Balanced,-0.26330652140226307
+telangana,mahabubabad,Balanced,-0.36908358672464475
+telangana,mahabubnagar,Critical Gap,-0.1676503773744214
+telangana,mancherial,Balanced,-0.1651506381653086
+telangana,medak,Critical Gap,-0.107629918392629
+telangana,medchal malkajgiri,Balanced,-0.46554820899262844
+telangana,mulugu,Balanced,-0.5086164658156583
+telangana,nagarkurnool,Balanced,-0.3463314335349193
+telangana,nalgonda,Critical Gap,0.0616992225748112
+telangana,narayanpet,Balanced,-0.477444072118061
+telangana,nirmal,Balanced,-0.0007381799989776101
+telangana,nizamabad,Critical Gap,0.5228404620356952
+telangana,peddapalli,Balanced,-0.2727869235294497
+telangana,rajanna sircilla,Balanced,0.2693217481290101
+telangana,rangareddy,Balanced,-0.4654105308876549
+telangana,sangareddy,Balanced,-0.30003621093432636
+telangana,siddipet,Balanced,-0.010636557794552087
+telangana,suryapet,Balanced,-0.2960863353353804
+telangana,vikarabad,Balanced,-0.4486557174968715
+telangana,wanaparthy,Balanced,-0.49158370599388107
+telangana,warangal,Critical Gap,0.5494528369669566
+telangana,warangal rural,Balanced,-0.06070042871619012
+telangana,warangal urban,Balanced,0.04640142768903634
+telangana,yadadri,Balanced,-0.2646617609156352
+tripura,dhalai,Critical Gap,-0.250932839788457
+tripura,gomati,Balanced,-0.010909357285625783
+tripura,khowai,Critical Gap,0.12524948870063796
+tripura,north tripura,Critical Gap,-0.02954492283943464
+tripura,sepahijala,Balanced,-0.3639866478458295
+tripura,south tripura,Balanced,-0.3152976010225255
+tripura,unakoti,Critical Gap,0.0695226963665236
+tripura,west tripura,Critical Gap,-0.1179264081825843
+uttar pradesh,agra,Balanced,-0.48815115043323626
+uttar pradesh,aligarh,Balanced,-0.48562036508749157
+uttar pradesh,ambedkar nagar,Balanced,-0.47747960931389793
+uttar pradesh,amethi,Balanced,-0.4269367398293812
+uttar pradesh,amroha,Balanced,-0.3387038697025613
+uttar pradesh,auraiya,Balanced,-0.3177760358812892
+uttar pradesh,ayodhya,Balanced,-0.40776787609338244
+uttar pradesh,azamgarh,Balanced,-0.5405617782264752
+uttar pradesh,baghpat,Balanced,-0.4904929811077529
+uttar pradesh,bagpat,Balanced,-0.6039109176669027
+uttar pradesh,bahraich,Balanced,-0.5527141800011439
+uttar pradesh,ballia,Balanced,-0.47482481656477094
+uttar pradesh,balrampur,Balanced,-0.5257778417974526
+uttar pradesh,banda,Balanced,-0.5039886118670313
+uttar pradesh,bara banki,Balanced,-0.2403711298922743
+uttar pradesh,barabanki,Balanced,-0.6054386793526914
+uttar pradesh,bareilly,Balanced,-0.4396440706609468
+uttar pradesh,basti,Balanced,-0.4747043125028434
+uttar pradesh,bhadohi,Balanced,-0.4773661777256752
+uttar pradesh,bijnor,Balanced,-0.22284869759012807
+uttar pradesh,budaun,Balanced,-0.5046724328967463
+uttar pradesh,bulandshahar,Balanced,-0.6053930745262499
+uttar pradesh,bulandshahr,Balanced,-0.42699697446915746
+uttar pradesh,chandauli,Balanced,-0.48437730001276397
+uttar pradesh,chitrakoot,Balanced,-0.43093475835247685
+uttar pradesh,deoria,Balanced,-0.4620472158772013
+uttar pradesh,etah,Balanced,-0.4605531662427701
+uttar pradesh,etawah,Balanced,-0.42545886979530045
+uttar pradesh,farrukhabad,Balanced,-0.4169675550474521
+uttar pradesh,fatehpur,Balanced,-0.4799665259311657
+uttar pradesh,firozabad,Balanced,-0.4401427826220848
+uttar pradesh,gautam buddha nagar,Balanced,-0.5589742564980976
+uttar pradesh,ghaziabad,Balanced,-0.5126993532108368
+uttar pradesh,ghazipur,Balanced,-0.47512204118018264
+uttar pradesh,gonda,Balanced,-0.4745310229433099
+uttar pradesh,gorakhpur,Balanced,-0.5436005196075159
+uttar pradesh,hamirpur,Balanced,-0.33739050947051674
+uttar pradesh,hapur,Balanced,-0.46505404708436077
+uttar pradesh,hardoi,Balanced,-0.4855131503162494
+uttar pradesh,hathras,Balanced,-0.37033144327281325
+uttar pradesh,jalaun,Balanced,-0.4282488507261103
+uttar pradesh,jaunpur,Balanced,-0.5022444829919707
+uttar pradesh,jhansi,Balanced,-0.3295906794302638
+uttar pradesh,jyotiba phule nagar,Balanced,-0.6056648032837968
+uttar pradesh,kannauj,Balanced,-0.4630550240004049
+uttar pradesh,kanpur dehat,Balanced,-0.4658183669788693
+uttar pradesh,kanpur nagar,Balanced,-0.5369530266643924
+uttar pradesh,kasganj,Balanced,-0.4340784865717801
+uttar pradesh,kaushambi,Balanced,-0.35735580672101613
+uttar pradesh,kheri,Balanced,-0.5000085594611557
+uttar pradesh,kushinagar,Balanced,-0.47485021234575114
+uttar pradesh,lalitpur,Balanced,-0.25059831492767837
+uttar pradesh,lucknow,Balanced,-0.49933211847747344
+uttar pradesh,maharajganj,Balanced,-0.5594591179390285
+uttar pradesh,mahoba,Balanced,-0.2958945473089081
+uttar pradesh,mahrajganj,Balanced,-0.6028585862967664
+uttar pradesh,mainpuri,Balanced,-0.5372897726750292
+uttar pradesh,mathura,Balanced,-0.4684672757738083
+uttar pradesh,mau,Balanced,-0.5145638755024557
+uttar pradesh,meerut,Balanced,-0.4946785048555112
+uttar pradesh,mirzapur,Balanced,-0.4247477820560085
+uttar pradesh,moradabad,Balanced,-0.4398024833354652
+uttar pradesh,muzaffarnagar,Balanced,-0.35287377381455515
+uttar pradesh,pilibhit,Balanced,-0.39960596202435106
+uttar pradesh,pratapgarh,Balanced,-0.42528084592922194
+uttar pradesh,prayagraj,Balanced,-0.338970933822818
+uttar pradesh,rae bareli,Balanced,-0.38819384676179225
+uttar pradesh,raebareli,Balanced,-0.6065417460922439
+uttar pradesh,rampur,Balanced,-0.5013703274046389
+uttar pradesh,saharanpur,Balanced,-0.38916071257685747
+uttar pradesh,sambhal,Balanced,-0.39850090702140695
+uttar pradesh,sant kabir nagar,Balanced,-0.4453531542568411
+uttar pradesh,sant ravidas nagar,Balanced,-0.4298178083836946
+uttar pradesh,sant ravidas nagar bhadohi,Balanced,-0.6041301533690145
+uttar pradesh,shahjahanpur,Balanced,-0.5049789890658845
+uttar pradesh,shamli,Balanced,-0.3526718352358581
+uttar pradesh,shrawasti,Balanced,-0.4945078508267979
+uttar pradesh,siddharthnagar,Balanced,-0.5361318675306433
+uttar pradesh,sitapur,Balanced,-0.46245694459679587
+uttar pradesh,sonbhadra,Balanced,-0.24004031026078174
+uttar pradesh,sultanpur,Balanced,-0.5048389122447734
+uttar pradesh,unnao,Balanced,-0.5051819038801304
+uttar pradesh,varanasi,Balanced,-0.5339836747528605
+uttarakhand,almora,Critical Gap,0.7291218732460856
+uttarakhand,bageshwar,Critical Gap,0.6639889392005195
+uttarakhand,chamoli,Critical Gap,1.2280900663180647
+uttarakhand,champawat,Critical Gap,0.6579103365657731
+uttarakhand,dehradun,Balanced,-0.16934881733287394
+uttarakhand,garhwal,Balanced,-0.5512943491600807
+uttarakhand,hardwar,Balanced,-0.5433111456624938
+uttarakhand,haridwar,Critical Gap,0.147848304874318
+uttarakhand,nainital,Balanced,0.25517206207999515
+uttarakhand,pauri garhwal,Critical Gap,0.9175954205647084
+uttarakhand,pithoragarh,Critical Gap,0.5030414616813831
+uttarakhand,rudraprayag,Critical Gap,0.8669440491948881
+uttarakhand,tehri garhwal,Critical Gap,0.27153164400629676
+uttarakhand,udham singh nagar,Balanced,0.34280309710574386
+uttarakhand,uttarkashi,Critical Gap,0.34409933597668
+west bengal,alipurduar,Balanced,-0.5915161108582987
+west bengal,bankura,Balanced,-0.35167853848290376
+west bengal,barddhaman,Balanced,-0.3397117009822318
+west bengal,bardhaman,Balanced,-0.541482401652981
+west bengal,birbhum,Balanced,-0.3689761355817895
+west bengal,cooch behar,Balanced,-0.5488930341738953
+west bengal,dakshin dinajpur,Balanced,-0.40444986609926553
+west bengal,darjeeling,Balanced,-0.5582242367486924
+west bengal,darjiling,Balanced,-0.5844704802501717
+west bengal,east midnapore,Balanced,-0.3596974652179974
+west bengal,east midnapur,Balanced,-0.6144342313682671
+west bengal,hooghly,Balanced,-0.4249554196781748
+west bengal,howrah,Balanced,-0.4886120023302143
+west bengal,jalpaiguri,Balanced,-0.5383243591018606
+west bengal,jhargram,Balanced,-0.5075491788317343
+west bengal,kalimpong,Balanced,-0.5892920440385209
+west bengal,koch bihar,Balanced,-0.588703215222575
+west bengal,kolkata,Balanced,-0.553384408863127
+west bengal,malda,Balanced,-0.51223206394016
+west bengal,maldah,Balanced,-0.5519068171532817
+west bengal,medinipur,Balanced,-0.5512943491600807
+west bengal,murshidabad,Balanced,-0.3976597300583178
+west bengal,nadia,Balanced,-0.4643500056136353
+west bengal,north 24 parganas,Balanced,-0.44440414581371873
+west bengal,north dinajpur,Balanced,-0.5874682400085208
+west bengal,paschim bardhaman,Balanced,-0.4937295140225229
+west bengal,paschim medinipur,Balanced,-0.41699112748979933
+west bengal,purba bardhaman,Balanced,-0.473513334845648
+west bengal,purba medinipur,Balanced,-0.12129938984017939
+west bengal,purulia,Balanced,-0.5722115915582846
+west bengal,puruliya,Balanced,-0.5027477408307566
+west bengal,south 24 parganas,Balanced,-0.48945238745345665
+west bengal,south dinajpur,Balanced,-0.5334631787216576
+west bengal,uttar dinajpur,Balanced,-0.5720690897668835
+west bengal,west medinipur,Balanced,-0.609172574517585
+west bengal,west midnapore,Balanced,-0.5290417227749403
